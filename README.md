@@ -4,7 +4,7 @@ In this project i used following Technologies:
 #back-end : java
 #database : SQLite database
 
-#Project Features
+#Project Features: 
 In this app user interface is user-friendly to easy understand and feel good look also.
 .Add new task
 .Update existing task
